@@ -61,16 +61,16 @@ following.
 
 <discussion>
     
-- [ ]	discusses implications of the results
-- [ ]	discusses the study's limitations and threats to validity
-- [ ]   states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
+- [ ]	E24: discusses implications of the results
+- [ ]	E25: discusses the study's limitations and threats to validity
+- [ ]   E26: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
 
 <other> 
     
-- [ ]	contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
-- [ ]	language is not misleading; any grammatical problems do not substantially hinder understanding
-- [ ]	acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
-- [ ]	visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
+- [ ]	E28: contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
+- [ ]	E29: language is not misleading; any grammatical problems do not substantially hinder understanding
+- [ ]	E30: acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
+- [ ]	E31: visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
 - [ ]	complies with all applicable empirical standards
 
 </checklist>
@@ -79,28 +79,28 @@ following.
 
 <checklist name="Desirable">
 
-- [ ]	states epistemological stance<sup>[2](#myfootnote2)</sup>
-- [ ]	summarizes and synthesizes a reasonable selection of related work (not every single relevant study)
-- [ ]	clearly describes relationship between contribution(s) and related work
-- [ ]	demonstrates appropriate statistical power (for quantitative work) or saturation (for qualitative work)
-- [ ]	describes reasonable attempts to investigate or mitigate limitations
-- [ ]	discusses study’s realism, assumptions and sensitivity of the results to its realism/assumptions
-- [ ]	provides plausibly useful interpretations or recommendations for practice, education or research
-- [ ]	concise, precise, well-organized and easy-to-read presentation
-- [ ]	visualizations (e.g. graphs, diagrams, tables) advance the paper’s arguments or contribution
-- [ ]	clarifies the roles and responsibilities of the researchers (i.e. who did what?)
-- [ ]	provides an auto-reflection or assessment of the authors’ own work (e.g. lessons learned)
-- [ ]   publishes the study in two phases: a plan and the results of executing the plan (see the [Registered Reports Supplement](https://github.com/acmsigsoft/EmpiricalStandards/tree/master/Supplements)) 
-- [ ]	uses multiple raters, where philosophically appropriate, for making subjective judgments (see the [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
+- [ ]	D1: states epistemological stance<sup>[2](#myfootnote2)</sup>
+- [ ]	D2: summarizes and synthesizes a reasonable selection of related work (not every single relevant study)
+- [ ]	D3: clearly describes relationship between contribution(s) and related work
+- [ ]	D4: demonstrates appropriate statistical power (for quantitative work) or saturation (for qualitative work)
+- [ ]	D5: describes reasonable attempts to investigate or mitigate limitations
+- [ ]	D6: discusses study’s realism, assumptions and sensitivity of the results to its realism/assumptions
+- [ ]	D7: provides plausibly useful interpretations or recommendations for practice, education or research
+- [ ]	D8: concise, precise, well-organized and easy-to-read presentation
+- [ ]	D9: visualizations (e.g. graphs, diagrams, tables) advance the paper’s arguments or contribution
+- [ ]	D10: clarifies the roles and responsibilities of the researchers (i.e. who did what?)
+- [ ]	D11: provides an auto-reflection or assessment of the authors’ own work (e.g. lessons learned)
+- [ ]   D12: publishes the study in two phases: a plan and the results of executing the plan (see the [Registered Reports Supplement](https://github.com/acmsigsoft/EmpiricalStandards/tree/master/Supplements)) 
+- [ ]	D13: uses multiple raters, where philosophically appropriate, for making subjective judgments (see the [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
 
 </checklist>
      
 ### Extraordinary Attributes 	
 <checklist name="Extraordinary">
 
-- [ ]	applies two or more data collection or analysis strategies to the same research question (see the [Multimethodology Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/MixedMethods.md))
-- [ ]	approaches the same research question(s) from multiple epistemological perspectives
-- [ ]	innovates on research methodology while completing an empirical study
+- [ ]	Ex1: applies two or more data collection or analysis strategies to the same research question (see the [Multimethodology Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/MixedMethods.md))
+- [ ]	Ex2: approaches the same research question(s) from multiple epistemological perspectives
+- [ ]	Ex3: innovates on research methodology while completing an empirical study
 
 </checklist>
 
