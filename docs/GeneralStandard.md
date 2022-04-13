@@ -42,22 +42,22 @@ following.
 
 <intro>    
     
-- [ ]	states a purpose, problem, objective, or research question  
-- [ ]	explains why the purpose, problem, etc. is important (motivation)  
-- [ ]	defines jargon, acronyms and key concepts  
+- [ ]	E1: states a purpose, problem, objective, or research question  
+- [ ]	E2: explains why the purpose, problem, etc. is important (motivation)  
+- [ ]	E3: defines jargon, acronyms and key concepts  
 
 <method>
     
-- [ ]	methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
-- [ ]	describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ]	describes in detail how the data were analyzed
+- [ ]	E5: methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
+- [ ]	E6: describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ]	E7: describes in detail how the data were analyzed
 
 
 <results>
     
-- [ ]	presents results
-- [ ]	results directly address research questions
-- [ ]	enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
+- [ ]	E21: presents results
+- [ ]	E22: results directly address research questions
+- [ ]	E23: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
 
 <discussion>
     
