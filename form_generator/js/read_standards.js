@@ -1010,7 +1010,7 @@ function create_requirements_checklist(){
 
 	// unshift() method adds new items to the beginning of an array, and returns the new length
 	if (!standard_keys.includes("\"General Standard\"")){
-		if (standard_keys.includes(("\"Qualitative Survey\""))){
+		if (standard_keys.includes(("\"Qualitative Surveys\""))){
 			standard_keys.unshift("\"General Standard2\"");
 		}
 		else{
