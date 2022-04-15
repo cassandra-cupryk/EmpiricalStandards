@@ -34,9 +34,9 @@ consider the **Discourse Analysis Standard**.
     
 <results>    
     
-- [ ]	presents clear chain of evidence from interviewee quotations to findings (e.g. proposed concepts)
-- [ ]	clearly answers the research question(s)
-- [ ]	provides evidence of saturation; explains how saturation was achieved<sup>[1](#myfootnote1)</sup>
+- [ ]	E13: presents clear chain of evidence from interviewee quotations to findings (e.g. proposed concepts)
+- [ ]	E14: clearly answers the research question(s)
+- [ ]	E15: provides evidence of saturation; explains how saturation was achieved<sup>[1](#myfootnote1)</sup>
     
 <discussion>
     
