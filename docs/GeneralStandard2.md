@@ -1,6 +1,6 @@
 # The General Standard 
 
-<standard name="General Standard">
+<standard name="General Standard2">
 
 ## Application 
 
@@ -55,15 +55,15 @@ following.
 
 <results>
     
-- [ ]	E21: presents results
-- [ ]	E22: results directly address research questions
-- [ ]	E23: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
+- [ ]	E11: presents results
+- [ ]	E12: results directly address research questions
+- [ ]	E13: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
 
 <discussion>
     
-- [ ]	E24: discusses implications of the results
-- [ ]	E25: discusses the study's limitations and threats to validity
-- [ ]   E26: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
+- [ ]	E17: discusses implications of the results
+- [ ]	E18: discusses the study's limitations and threats to validity
+- [ ]   E19: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
 
 <other> 
     
