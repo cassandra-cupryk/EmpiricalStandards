@@ -21,6 +21,9 @@ function readSpecificEmpiricalStandard(standard_name){
 	var dir = dir.substring(0, dir.lastIndexOf('/'));
 	var standard_file_name = standard_name.replaceAll("\"", "").replace(" ", "");
 	alert("standard_name: " + standard_name);
+
+	//if (standard_name ===  ""){}
+
 	var standard_file_path = dir + "/docs/" + standard_file_name + ".md";
 	var empirical_standard = "";
 	mdFile.open("GET", standard_file_path, false);
@@ -1006,9 +1009,14 @@ function create_requirements_checklist(){
 	}
 
 	// unshift() method adds new items to the beginning of an array, and returns the new length
-	if (!standard_keys.includes("\"General Standard\""))
-		standard_keys.unshift("\"General Standard\"");
-	
+	if (!standard_keys.includes("\"General Standard\"")){
+		if (standard_keys.includes(("\"Qualitative Survey\""))){
+			standard_keys.unshift("\"General Standard2\"");
+		}
+		else{
+			standard_keys.unshift("\"General Standard\"");
+		}
+	}
 	var i = 0;
 	for (let key of standard_keys){
 		i++;
