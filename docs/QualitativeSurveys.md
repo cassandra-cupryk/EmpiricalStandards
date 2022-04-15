@@ -47,24 +47,24 @@ consider the **Discourse Analysis Standard**.
 ### Desirable Attributes	
 <checklist name="Desirable">
 
-- [ ]	provides supplemental materials including interview guide(s), coding schemes, coding examples, decision rules, or extended chain-of-evidence table(s)
-- [ ]	includes highly diverse participants
-- [ ]	uses direct quotations extensively to support key points
-- [ ]	EITHER: evaluates an a priori theory (or model, framework, taxonomy, etc.) using deductive coding with an a priori coding scheme based on the prior theory    
+- [ ]	D14: provides supplemental materials including interview guide(s), coding schemes, coding examples, decision rules, or extended chain-of-evidence table(s)
+- [ ]	D15: includes highly diverse participants
+- [ ]	D16: uses direct quotations extensively to support key points
+- [ ]	D17: EITHER: evaluates an a priori theory (or model, framework, taxonomy, etc.) using deductive coding with an a priori coding scheme based on the prior theory    
      OR: synthesizes results into a new, mature, fully-developed and clearly articulated theory (or model, etc.) using some form of inductive coding (coding scheme generated from data)
-- [ ]   validates results using member checking, dialogical interviewing, feedback from non-participant practitioners or research audits of coding by advisors or other researchers<sup>[2](#myfootnote2)</sup>)
-- [ ]	discusses transferability; findings plausibly transferable to different contexts
-- [ ]	compares results with (or integrates them into) prior theory or related research
-- [ ]	reflects on how researchers’ biases may have affected their analysis
+- [ ]   D18: validates results using member checking, dialogical interviewing, feedback from non-participant practitioners or research audits of coding by advisors or other researchers<sup>[2](#myfootnote2)</sup>)
+- [ ]	D19: discusses transferability; findings plausibly transferable to different contexts
+- [ ]	D20: compares results with (or integrates them into) prior theory or related research
+- [ ]	D21: reflects on how researchers’ biases may have affected their analysis
 </checklist>
      
 ### Extraordinary Attributes	
 <checklist name="Extraordinary">
 
-- [ ]	employs multiple methods of data analysis (e.g. open coding vs. process coding; manual coding vs. automated sentiment analysis) with method-triangulation
-- [ ]	employs longitudinal design (i.e. each interviewee participates multiple times) and analysis
-- [ ]	employs probabilistic sampling strategy; statistical analysis of response bias
-- [ ]	uses multiple coders and analyzes inter-coder reliability (see [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
+- [ ]	Ex4: employs multiple methods of data analysis (e.g. open coding vs. process coding; manual coding vs. automated sentiment analysis) with method-triangulation
+- [ ]	Ex5: employs longitudinal design (i.e. each interviewee participates multiple times) and analysis
+- [ ]	Ex6: employs probabilistic sampling strategy; statistical analysis of response bias
+- [ ]	Ex7: uses multiple coders and analyzes inter-coder reliability (see [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
 </checklist>
 
 ## General Quality Criteria
