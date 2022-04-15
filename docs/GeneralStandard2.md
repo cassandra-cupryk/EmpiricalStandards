@@ -48,29 +48,29 @@ following.
 
 <method>
     
-- [ ]	E5: methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
-- [ ]	E6: describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ]	E7: describes in detail how the data were analyzed
+- [ ]	E4: methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
+- [ ]	E5: describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ]	E6: describes in detail how the data were analyzed
 
 
 <results>
     
-- [ ]	E11: presents results
-- [ ]	E12: results directly address research questions
-- [ ]	E13: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
+- [ ]	E10: presents results
+- [ ]	E11: results directly address research questions
+- [ ]	E12: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
 
 <discussion>
     
-- [ ]	E17: discusses implications of the results
-- [ ]	E18: discusses the study's limitations and threats to validity
-- [ ]   E19: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
+- [ ]	E16: discusses implications of the results
+- [ ]	E17: discusses the study's limitations and threats to validity
+- [ ]   E18: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
 
 <other> 
     
-- [ ]	E28: contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
-- [ ]	E29: language is not misleading; any grammatical problems do not substantially hinder understanding
-- [ ]	E30: acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
-- [ ]	E31: visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
+- [ ]	E20: contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
+- [ ]	E21: language is not misleading; any grammatical problems do not substantially hinder understanding
+- [ ]	E22: acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
+- [ ]	E23: visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
 - [ ]	complies with all applicable empirical standards
 
 </checklist>
