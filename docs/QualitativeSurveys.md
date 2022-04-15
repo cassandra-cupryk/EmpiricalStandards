@@ -28,19 +28,19 @@ consider the **Discourse Analysis Standard**.
 
 <method>    
     
-- [ ]	explains how interviewees were selected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ]	describes interviewees (e.g. demographics, work roles)
-- [ ]   describes interviewer(s) (e.g. experience, perspective)     
+- [ ]	E8: explains how interviewees were selected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ]	E9: describes interviewees (e.g. demographics, work roles)
+- [ ]   E10: describes interviewer(s) (e.g. experience, perspective)     
     
 <results>    
     
-- [ ]	presents clear chain of evidence from interviewee quotations to findings (e.g. proposed concepts)
-- [ ]	clearly answers the research question(s)
-- [ ]	provides evidence of saturation; explains how saturation was achieved<sup>[1](#myfootnote1)</sup>
+- [ ]	E14: presents clear chain of evidence from interviewee quotations to findings (e.g. proposed concepts)
+- [ ]	E15: clearly answers the research question(s)
+- [ ]	E16: provides evidence of saturation; explains how saturation was achieved<sup>[1](#myfootnote1)</sup>
     
 <discussion>
     
- - [ ]   researchers reflect on their own possible biases   
+ - [ ]   E20: researchers reflect on their own possible biases   
     
 </checklist>
      

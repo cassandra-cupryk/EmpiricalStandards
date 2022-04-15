@@ -20,6 +20,7 @@ function readSpecificEmpiricalStandard(standard_name){
 	var dir = loc.substring(0, loc.lastIndexOf('/'));
 	var dir = dir.substring(0, dir.lastIndexOf('/'));
 	var standard_file_name = standard_name.replaceAll("\"", "").replace(" ", "");
+	alert("standard_name: " + standard_name);
 	var standard_file_path = dir + "/docs/" + standard_file_name + ".md";
 	var empirical_standard = "";
 	mdFile.open("GET", standard_file_path, false);
