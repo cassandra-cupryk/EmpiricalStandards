@@ -22,9 +22,8 @@ function readSpecificEmpiricalStandard(standard_name){
 	var standard_file_name = standard_name.replaceAll("\"", "").replace(" ", "");
 	alert("standard_name: " + standard_name);
 
-	//if (standard_name ===  ""){}
-
 	var standard_file_path = dir + "/docs/" + standard_file_name + ".md";
+	alert("standard_name: " + standard_file_path);
 	var empirical_standard = "";
 	mdFile.open("GET", standard_file_path, false);
 	mdFile.onreadystatechange = function(){
