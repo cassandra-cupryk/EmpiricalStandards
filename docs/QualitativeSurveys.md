@@ -28,9 +28,9 @@ consider the **Discourse Analysis Standard**.
 
 <method>    
     
-- [ ]	explains how interviewees were selected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ]	describes interviewees (e.g. demographics, work roles)
-- [ ]   describes interviewer(s) (e.g. experience, perspective)     
+- [ ]	E7: explains how interviewees were selected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ]	E8: describes interviewees (e.g. demographics, work roles)
+- [ ]   E9: describes interviewer(s) (e.g. experience, perspective)     
     
 <results>    
     
