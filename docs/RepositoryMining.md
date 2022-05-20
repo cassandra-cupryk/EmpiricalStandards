@@ -18,37 +18,37 @@ If the study focuses on predictive modeling (e.g. machine learning) consider the
     
 <intro>
 
-- [ ] E4: explains why repository mining is appropriate for the proposed research problem
+- [ ] ES4: explains why repository mining is appropriate for the proposed research problem
 
 <method>
     
-- [ ] E8: defines unit(s) of analysis or observation
-- [ ] E9: describes and justifies the data sources (e.g. GitHub, StackOverflow)
+- [ ] ES8: defines unit(s) of analysis or observation
+- [ ] ES9: describes and justifies the data sources (e.g. GitHub, StackOverflow)
     - (if the selected data source(s) are obscure) explains in detail why they are appopriate for the goals of the study (e.g. consider number of repositories data quality, terms and conditions that may limit access to information)
-- [ ] E10: describes and justifies how the repositories are selected from the data sources (e.g. selection criteria, use of third-party tools, APIs, programming languages of choice)
-- [ ] E11: describes how the inclusion and exclusion criteria was validated (e.g., by manually inspecting the results of the automated search)
-- [ ] E12: describes the selected repositories     
-- [ ] E13: describes the procedure for the acquisition (e.g., first selecting repositories and then downloading, or all completed together)
-- [ ] E14: if the data obtained is too large to be processed in its entirety
+- [ ] ES10: describes and justifies how the repositories are selected from the data sources (e.g. selection criteria, use of third-party tools, APIs, programming languages of choice)
+- [ ] ES11: describes how the inclusion and exclusion criteria was validated (e.g., by manually inspecting the results of the automated search)
+- [ ] ES12: describes the selected repositories     
+- [ ] ES13: describes the procedure for the acquisition (e.g., first selecting repositories and then downloading, or all completed together)
+- [ ] ES14: if the data obtained is too large to be processed in its entirety
     - explains why (e.g., unfeasibility of a manual study, processing limitations, scope limitations)
     - explains the sampling strategy (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ] E15: describes dataset characteristics including size of the selected repositories, and dataset attributes relevant to the study at hand (e.g., number of commit messages) 
-- [ ] E16: describes data preprocessing steps
-- [ ] E17: if manual annotations are carried out:
+- [ ] ES15: describes dataset characteristics including size of the selected repositories, and dataset attributes relevant to the study at hand (e.g., number of commit messages) 
+- [ ] ES16: describes data preprocessing steps
+- [ ] ES17: if manual annotations are carried out:
     - uses multiple annotators; reports the number of annotators
     - describes the annotators (e.g. demographics, experience, training),
     - describes in detail the annotation procedure (e.g. what types of questions were asked to the annotators),
     - assesses inter-rater reliability (see the Inter-Rater Reliability Supplement)
-- [ ] E18: describes and justifies measures or metrics used
-- [ ] E19: EITHER: uses previously validated measures, OR: assesses construct validity
+- [ ] ES18: describes and justifies measures or metrics used
+- [ ] ES19: EITHER: uses previously validated measures, OR: assesses construct validity
 
-- [ ] E20: if predictive modeling is used, complies with the [Data Science Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/DataScience.md)
+- [ ] ES20: if predictive modeling is used, complies with the [Data Science Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/DataScience.md)
 
 <results>
     
 <discussion>
     
-- [ ] E27: discusses threats to external validity (e.g. caused by selection of data source(s) and repositories, selection criteria, search strings)
+- [ ] ES27: discusses threats to external validity (e.g. caused by selection of data source(s) and repositories, selection criteria, search strings)
 
 <other>
 
@@ -57,24 +57,24 @@ If the study focuses on predictive modeling (e.g. machine learning) consider the
 ### Desirable Attributes
 <checklist name="Desirable">
 
-- [ ] D14: provides supplemental materials (e.g. complete dataset, tool(s) used to download, select, pre-process, and post-process the selected repositories)
-- [ ] D15: uses probability sampling (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ] D16: suggests future work that validates or uses the same sample
-- [ ] D17: quantitatively assess construct validity (e.g. using factor analysis)
-- [ ] D18: triangulates across data sources, informants or researchers
-- [ ] D19: annotators reflect on their own possible biases
-- [ ] D20: qualitative analysis of scenarios where the data collection or analysis tools were ineffective
-- [ ] D21: performs testing (e.g., unit testing) to avoid bugs in the proposed tool
-- [ ] D22: builds, tests or extends theory
-- [ ] D23: tests formal hypotheses
-- [ ] D24: discusses ethical issues in mining of software repositories<sup>[1](#footnote1)</sup> (e.g., data privacy)    
+- [ ] DE14: provides supplemental materials (e.g. complete dataset, tool(s) used to download, select, pre-process, and post-process the selected repositories)
+- [ ] DE15: uses probability sampling (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ] DE16: suggests future work that validates or uses the same sample
+- [ ] DE17: quantitatively assess construct validity (e.g. using factor analysis)
+- [ ] DE18: triangulates across data sources, informants or researchers
+- [ ] DE19: annotators reflect on their own possible biases
+- [ ] DE20: qualitative analysis of scenarios where the data collection or analysis tools were ineffective
+- [ ] DE21: performs testing (e.g., unit testing) to avoid bugs in the proposed tool
+- [ ] DE22: builds, tests or extends theory
+- [ ] DE23: tests formal hypotheses
+- [ ] DE24: discusses ethical issues in mining of software repositories<sup>[1](#footnote1)</sup> (e.g., data privacy)    
     
 </checklist>
 
 ### Extraordinary Attributes
 <checklist name="Extraordinary">
 
-- [ ] Ex4: establishes causality, e.g. using longitidunal analyses
+- [ ] EX4: establishes causality, e.g. using longitidunal analyses
 
 
 </checklist>
