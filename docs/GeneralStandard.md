@@ -42,35 +42,35 @@ following.
 
 <intro>    
     
-- [ ]	E1: states a purpose, problem, objective, or research question  
-- [ ]	E2: explains why the purpose, problem, etc. is important (motivation)  
-- [ ]	E3: defines jargon, acronyms and key concepts  
+- [ ]	ES1: states a purpose, problem, objective, or research question  
+- [ ]	ES2: explains why the purpose, problem, etc. is important (motivation)  
+- [ ]	ES3: defines jargon, acronyms and key concepts  
 
 <method>
     
-- [ ]	E5: methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
-- [ ]	E6: describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
-- [ ]	E7: describes in detail how the data were analyzed
+- [ ]	ES5: methodology is appropriate (not necessarily optimal) for stated purpose, problem, etc.
+- [ ]	ES6: describes in detail what, where, when and how data were collected (see the [Sampling Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/Sampling.md))
+- [ ]	ES7: describes in detail how the data were analyzed
 
 
 <results>
     
-- [ ]	E21: presents results
-- [ ]	E22: results directly address research questions
-- [ ]	E23: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
+- [ ]	ES21: presents results
+- [ ]	ES22: results directly address research questions
+- [ ]	ES23: enumerates and validates assumptions of statistical tests used (if any)<sup>[1](#myfootnote1)</sup>
 
 <discussion>
     
-- [ ]	E24: discusses implications of the results
-- [ ]	E25: discusses the study's limitations and threats to validity
-- [ ]   E26: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
+- [ ]	ES24: discusses implications of the results
+- [ ]	ES25: discusses the study's limitations and threats to validity
+- [ ]   ES26: states clear conclusions which are linked to research question (or purpose, etc.) and supported by explicit evidence (data/observations) or arguments
 
 <other> 
     
-- [ ]	E28: contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
-- [ ]	E29: language is not misleading; any grammatical problems do not substantially hinder understanding
-- [ ]	E30: acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
-- [ ]	E31: visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
+- [ ]	ES28: contributes in some way to the collective body of knowledge <!-- (see Replications Supplement) -->
+- [ ]	ES29: language is not misleading; any grammatical problems do not substantially hinder understanding
+- [ ]	ES30: acknowledges and mitigates potential risks, harms, burdens or unintended consequences of the research (see the ethics supplements for [Engineering Research](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsEngineering.md), [Human Participants](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsHumanParticipants.md), or [Secondary Data](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/EthicsSecondaryData.md))
+- [ ]	ES31: visualizations/graphs are not misleading (see the [Information Visualization Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InformationVisualization.md))
 - [ ]	complies with all applicable empirical standards
 
 </checklist>
@@ -79,28 +79,28 @@ following.
 
 <checklist name="Desirable">
 
-- [ ]	D1: states epistemological stance<sup>[2](#myfootnote2)</sup>
-- [ ]	D2: summarizes and synthesizes a reasonable selection of related work (not every single relevant study)
-- [ ]	D3: clearly describes relationship between contribution(s) and related work
-- [ ]	D4: demonstrates appropriate statistical power (for quantitative work) or saturation (for qualitative work)
-- [ ]	D5: describes reasonable attempts to investigate or mitigate limitations
-- [ ]	D6: discusses study’s realism, assumptions and sensitivity of the results to its realism/assumptions
-- [ ]	D7: provides plausibly useful interpretations or recommendations for practice, education or research
-- [ ]	D8: concise, precise, well-organized and easy-to-read presentation
-- [ ]	D9: visualizations (e.g. graphs, diagrams, tables) advance the paper’s arguments or contribution
-- [ ]	D10: clarifies the roles and responsibilities of the researchers (i.e. who did what?)
-- [ ]	D11: provides an auto-reflection or assessment of the authors’ own work (e.g. lessons learned)
-- [ ]   D12: publishes the study in two phases: a plan and the results of executing the plan (see the [Registered Reports Supplement](https://github.com/acmsigsoft/EmpiricalStandards/tree/master/Supplements)) 
-- [ ]	D13: uses multiple raters, where philosophically appropriate, for making subjective judgments (see the [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
+- [ ]	DE1: states epistemological stance<sup>[2](#myfootnote2)</sup>
+- [ ]	DE2: summarizes and synthesizes a reasonable selection of related work (not every single relevant study)
+- [ ]	DE3: clearly describes relationship between contribution(s) and related work
+- [ ]	DE4: demonstrates appropriate statistical power (for quantitative work) or saturation (for qualitative work)
+- [ ]	DE5: describes reasonable attempts to investigate or mitigate limitations
+- [ ]	DE6: discusses study’s realism, assumptions and sensitivity of the results to its realism/assumptions
+- [ ]	DE7: provides plausibly useful interpretations or recommendations for practice, education or research
+- [ ]	DE8: concise, precise, well-organized and easy-to-read presentation
+- [ ]	DE9: visualizations (e.g. graphs, diagrams, tables) advance the paper’s arguments or contribution
+- [ ]	DE10: clarifies the roles and responsibilities of the researchers (i.e. who did what?)
+- [ ]	DE11: provides an auto-reflection or assessment of the authors’ own work (e.g. lessons learned)
+- [ ]   DE12: publishes the study in two phases: a plan and the results of executing the plan (see the [Registered Reports Supplement](https://github.com/acmsigsoft/EmpiricalStandards/tree/master/Supplements)) 
+- [ ]	DE13: uses multiple raters, where philosophically appropriate, for making subjective judgments (see the [IRR/IRA Supplement](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/InterRaterReliabilityAndAgreement.md))
 
 </checklist>
      
 ### Extraordinary Attributes 	
 <checklist name="Extraordinary">
 
-- [ ]	Ex1: applies two or more data collection or analysis strategies to the same research question (see the [Multimethodology Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/MixedMethods.md))
-- [ ]	Ex2: approaches the same research question(s) from multiple epistemological perspectives
-- [ ]	Ex3: innovates on research methodology while completing an empirical study
+- [ ]	EX1: applies two or more data collection or analysis strategies to the same research question (see the [Multimethodology Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/MixedMethods.md))
+- [ ]	EX2: approaches the same research question(s) from multiple epistemological perspectives
+- [ ]	EX3: innovates on research methodology while completing an empirical study
 
 </checklist>
 
